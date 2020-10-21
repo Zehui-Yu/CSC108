@@ -1,0 +1,18 @@
+========== a3_checker.py.a3_checker.CheckTest.test00LoadProfiles (Function load_profiles.): PASS ==========
+
+
+========== a3_checker.py.a3_checker.CheckTest.test01GetAverageClubCount (Function get_average_club_count.): PASS ==========
+
+
+========== a3_checker.py.a3_checker.CheckTest.test02GetLastToFirst (Function get_last_to_first.): PASS ==========
+
+
+========== a3_checker.py.a3_checker.CheckTest.test03InvertAndSort (Function invert_and_sort.): PASS ==========
+
+
+========== a3_checker.py.a3_checker.CheckTest.test04GetClubsOfFriends (Function get_clubs_of_friends.): PASS ==========
+
+
+========== a3_checker.py.a3_checker.CheckTest.test05RecommendClubs (Function recommend_clubs.): PASS ==========
+
+
